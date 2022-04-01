@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OEIRU
 - 🐧 Terrible diplomat, dolphin and lover of QR codes.
-<!---
-OEIRU/OEIRU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OEIRU&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OEIRU&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OEIRU&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OEIRU&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OEIRU&theme=solarized_dark&utcOffset=8)
