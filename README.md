@@ -2,6 +2,7 @@
 - 🐧 Terrible diplomat, dolphin and lover of QR codes.
 - 🧮 Verschlimmbessern.
 - 📒 While there is chaos and a lot of drafts.
+- 🎈 Однажды наведу тут порядок 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OEIRU&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OEIRU&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OEIRU&theme=solarized_dark)
